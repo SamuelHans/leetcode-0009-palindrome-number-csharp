@@ -1,0 +1,14 @@
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\bin\Debug\net6.0\LeetCode - 0009 - Palindrome Number.exe
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\bin\Debug\net6.0\LeetCode - 0009 - Palindrome Number.deps.json
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\bin\Debug\net6.0\LeetCode - 0009 - Palindrome Number.runtimeconfig.json
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\bin\Debug\net6.0\LeetCode - 0009 - Palindrome Number.dll
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\bin\Debug\net6.0\LeetCode - 0009 - Palindrome Number.pdb
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\LeetCode - 0009 - Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\LeetCode - 0009 - Palindrome Number.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\LeetCode - 0009 - Palindrome Number.AssemblyInfo.cs
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\LeetCode - 0009 - Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\LeetCode - 0009 - Palindrome Number.dll
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\refint\LeetCode - 0009 - Palindrome Number.dll
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\LeetCode - 0009 - Palindrome Number.pdb
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\LeetCode - 0009 - Palindrome Number.genruntimeconfig.cache
+C:\Users\samue\Documents\GitHub\leetcode-0009-palindrome-number-csharp\LeetCode - 0009 - Palindrome Number\LeetCode - 0009 - Palindrome Number\obj\Debug\net6.0\ref\LeetCode - 0009 - Palindrome Number.dll
